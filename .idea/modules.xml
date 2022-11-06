@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CP-Submissions.iml" filepath="$PROJECT_DIR$/.idea/CP-Submissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../DL/Git/Data-Science-Lab/.idea/Data-Science-Lab.iml" filepath="$PROJECT_DIR$/../../DL/Git/Data-Science-Lab/.idea/Data-Science-Lab.iml" />
+    </modules>
+  </component>
+</project>
